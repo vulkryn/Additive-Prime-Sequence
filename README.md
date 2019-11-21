@@ -1,0 +1,2 @@
+# Additive-Prime-Sequence
+Program to find the increasingly additive prime sequence  between a lower and upper bound-- where an increasingly additive prime sequence is a list of integer numbers such that the next number in the sequence is greater than the sum of the previous numbers. Necessary variables, as well as any input/output is handled in C, while the main logic (testing if prime, testing if greater than sum, testing if still in bounds)  is done through Intel assembly code.
