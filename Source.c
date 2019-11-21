@@ -48,7 +48,7 @@ void main() {
 	}
 }
 
-/*OUTPUT
+/*OUTPUT EXAMPLES
 The additively prime sequence from 3 to 1000 is:
 3 5 11 23 43 89 179 359 719
 
